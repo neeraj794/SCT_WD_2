@@ -1,2 +1,2 @@
-# SCT_WD_2
-web development internship
+# Stop watch web application 
+Built a responsive Stopwatch web application using HTML, CSS, and JavaScript.
